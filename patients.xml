@@ -20,14 +20,22 @@
 <Visits/>
 </Patient>
 <Patient>
-<NationalID>33</NationalID>
+<NationalID>3</NationalID>
 <FirstName>سارة </FirstName>
 <LastName>منير</LastName>
 <DateOfBirth>2026-05-01</DateOfBirth>
 <Gender>female</Gender>
 <Phone>05000000023</Phone>
 <BloodType>A+</BloodType>
-<Visits/>
+<Visits>
+<Visit>
+<Date>2026-05-07</Date>
+<Doctor>د.مصعب</Doctor>
+<Diagnosis>شقيقة </Diagnosis>
+<Treatment>اكامول </Treatment>
+<Notes>لا شيء</Notes>
+</Visit>
+</Visits>
 </Patient>
 <Patient>
 <NationalID>2</NationalID>
