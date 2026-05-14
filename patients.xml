@@ -1,31 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <MedicalRecords>
-  <Patient>
-    <NationalID>222</NationalID>
-    <FirstName>مسلم </FirstName>
-    <LastName>خالد </LastName>
-    <DateOfBirth>2016-05-04</DateOfBirth>
-    <Gender>male</Gender>
-    <Phone>0500032324</Phone>
-    <BloodType>A-</BloodType>
-    <Visits/>
-  </Patient>
-  <Patient>
-    <NationalID>111</NationalID>
-    <FirstName>أحمد </FirstName>
-    <LastName>محمد </LastName>
-    <DateOfBirth>2026-05-05</DateOfBirth>
-    <Gender>male</Gender>
-    <Phone>05000000000</Phone>
-    <BloodType>A+</BloodType>
-    <Visits>
-      <Visit>
-        <Date>2026-05-01</Date>
-        <Doctor>د.سامر</Doctor>
-        <Diagnosis>التهاب حلق</Diagnosis>
-        <Treatment>مضاد حيوي</Treatment>
-        <Notes>مراجعة بعد أسبوع </Notes>
-      </Visit>
-    </Visits>
-  </Patient>
+<Patient>
+<NationalID>33</NationalID>
+<FirstName>سارة </FirstName>
+<LastName>منير</LastName>
+<DateOfBirth>2026-05-01</DateOfBirth>
+<Gender>female</Gender>
+<Phone>05000000023</Phone>
+<BloodType>A+</BloodType>
+<Visits/>
+</Patient>
+<Patient>
+<NationalID>2</NationalID>
+<FirstName>مسلم </FirstName>
+<LastName>خالد </LastName>
+<DateOfBirth>2016-05-04</DateOfBirth>
+<Gender>male</Gender>
+<Phone>0500032324</Phone>
+<BloodType>A-</BloodType>
+<Visits>
+<Visit>
+<Date>2026-05-14</Date>
+<Doctor>د.مصعب</Doctor>
+<Diagnosis>شقيقة</Diagnosis>
+<Treatment>اكامول وراحة </Treatment>
+<Notes>لا شيء</Notes>
+</Visit>
+</Visits>
+</Patient>
+<Patient>
+<NationalID>111</NationalID>
+<FirstName>أحمد </FirstName>
+<LastName>محمد </LastName>
+<DateOfBirth>2026-05-05</DateOfBirth>
+<Gender>male</Gender>
+<Phone>05000000000</Phone>
+<BloodType>A+</BloodType>
+<Visits>
+<Visit>
+<Date>2026-05-01</Date>
+<Doctor>د.سامر</Doctor>
+<Diagnosis>التهاب حلق</Diagnosis>
+<Treatment>مضاد حيوي</Treatment>
+<Notes>مراجعة بعد أسبوع </Notes>
+</Visit>
+</Visits>
+</Patient>
 </MedicalRecords>
