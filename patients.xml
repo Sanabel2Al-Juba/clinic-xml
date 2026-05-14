@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MedicalRecords>
   <Patient>
+    <NationalID>222</NationalID>
+    <FirstName>مسلم </FirstName>
+    <LastName>خالد </LastName>
+    <DateOfBirth>2016-05-04</DateOfBirth>
+    <Gender>male</Gender>
+    <Phone>0500032324</Phone>
+    <BloodType>A-</BloodType>
+    <Visits/>
+  </Patient>
+  <Patient>
     <NationalID>111</NationalID>
     <FirstName>أحمد </FirstName>
     <LastName>محمد </LastName>
