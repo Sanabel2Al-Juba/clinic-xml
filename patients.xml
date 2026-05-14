@@ -1,23 +1,46 @@
 <MedicalRecords>
 <Patient>
-<NationalID>55</NationalID>
+<NationalID>5</NationalID>
 <FirstName>سالي</FirstName>
 <LastName>محمد </LastName>
 <DateOfBirth>2026-05-02</DateOfBirth>
 <Gender>female</Gender>
 <Phone>05000030223</Phone>
 <BloodType>A+</BloodType>
-<Visits/>
+<Visits>
+<Visit>
+<Date>2026-05-03</Date>
+<Doctor>د.سامر</Doctor>
+<Diagnosis>قحة </Diagnosis>
+<Treatment>اكامول </Treatment>
+<Notes>لا شيء</Notes>
+</Visit>
+<Visit>
+<Date>2026-05-04</Date>
+<Doctor>د.مصعب</Doctor>
+<Diagnosis>تعب</Diagnosis>
+<Treatment>راحة </Treatment>
+<Notes>لا شيءء</Notes>
+</Visit>
+</Visits>
 </Patient>
 <Patient>
-<NationalID>44</NationalID>
+<NationalID>4</NationalID>
 <FirstName>أمين </FirstName>
 <LastName>الأمين </LastName>
 <DateOfBirth>2026-05-01</DateOfBirth>
 <Gender>male</Gender>
 <Phone>05000000004</Phone>
 <BloodType>A+</BloodType>
-<Visits/>
+<Visits>
+<Visit>
+<Date>2026-05-12</Date>
+<Doctor>د.مصعب</Doctor>
+<Diagnosis>التهاب بالحلق</Diagnosis>
+<Treatment>مسكن </Treatment>
+<Notes>مرتين باليوم </Notes>
+</Visit>
+</Visits>
 </Patient>
 <Patient>
 <NationalID>3</NationalID>
