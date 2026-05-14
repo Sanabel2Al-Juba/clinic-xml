@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MedicalRecords>
+  <Patient>
+    <NationalID>111</NationalID>
+    <FirstName>أحمد </FirstName>
+    <LastName>محمد </LastName>
+    <DateOfBirth>2026-05-05</DateOfBirth>
+    <Gender>male</Gender>
+    <Phone>05000000000</Phone>
+    <BloodType>A+</BloodType>
+    <Visits>
+      <Visit>
+        <Date>2026-05-01</Date>
+        <Doctor>د.سامر</Doctor>
+        <Diagnosis>التهاب حلق</Diagnosis>
+        <Treatment>مضاد حيوي</Treatment>
+        <Notes>مراجعة بعد أسبوع </Notes>
+      </Visit>
+    </Visits>
+  </Patient>
+</MedicalRecords>
