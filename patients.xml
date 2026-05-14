@@ -1,5 +1,25 @@
 <MedicalRecords>
 <Patient>
+<NationalID>55</NationalID>
+<FirstName>سالي</FirstName>
+<LastName>محمد </LastName>
+<DateOfBirth>2026-05-02</DateOfBirth>
+<Gender>female</Gender>
+<Phone>05000030223</Phone>
+<BloodType>A+</BloodType>
+<Visits/>
+</Patient>
+<Patient>
+<NationalID>44</NationalID>
+<FirstName>أمين </FirstName>
+<LastName>الأمين </LastName>
+<DateOfBirth>2026-05-01</DateOfBirth>
+<Gender>male</Gender>
+<Phone>05000000004</Phone>
+<BloodType>A+</BloodType>
+<Visits/>
+</Patient>
+<Patient>
 <NationalID>33</NationalID>
 <FirstName>سارة </FirstName>
 <LastName>منير</LastName>
